@@ -1,5 +1,7 @@
 # HTTP Response Status Codes
 
+![mindmap.svg](mindmap.svg)
+
 ## 1XX - Informational
 
 ### 100 Continue
