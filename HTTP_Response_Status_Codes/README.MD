@@ -124,6 +124,4 @@
 
 ### 511 Network Authentication Required
 
-## 
-
-## www.technical0812.com
+www.technical0812.com
